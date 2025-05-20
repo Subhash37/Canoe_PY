@@ -57,9 +57,6 @@ canoe.quit()
 - pywin32
 - Vector CANoe installed
 
-## Acknowledgments
-
-This library was inspired by the [py_canoe](https://github.com/chaitu-ycr/py_canoe) project by chaitu-ycr, which is licensed under the MIT License.
 
 ## License
 
