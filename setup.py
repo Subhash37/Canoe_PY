@@ -11,9 +11,9 @@ setup(
     description="A custom library for interacting with Vector CANoe",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/Canoe_PY",
+    url="https://github.com/subhash37/Canoe_PY",
     project_urls={
-        "Bug Tracker": "https://github.com/yourusername/Canoe_PY/issues",
+        "Bug Tracker": "https://github.com/subhash37/Canoe_PY/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
