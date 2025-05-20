@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="Canoe_PY",
-    version="0.1.0",
+    version="0.1.1",
     author="Subhashsingh Rajpurohit",
     author_email="rajpurohits001@example.com",
     description="A custom library for interacting with Vector CANoe",
