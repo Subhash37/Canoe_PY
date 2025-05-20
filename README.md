@@ -1,6 +1,6 @@
 # Canoe_PY
 
-A custom Python library for interacting with Vector CANoe, inspired by [py_canoe](https://github.com/chaitu-ycr/py_canoe).
+A custom Python library for interacting with Vector CANoe.
 
 ## Installation
 
